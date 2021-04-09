@@ -1,0 +1,15 @@
+{
+    "name": "api-basica",
+    "version": "1.0.0",
+    "description": "Ejemplo de creación de una API sencilla usando Node.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Alfredo Giménez <alfredo@algio.dev>",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
